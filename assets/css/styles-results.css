@@ -1,0 +1,15 @@
+body {
+  background-color: #d9e9e8 !important;
+  display: flex;
+}
+
+main {
+  padding: 1em;
+  flex: 1;
+  background-color: #2d3e50 !important;
+}
+
+form,
+#submit {
+  width: 100%;
+}

@@ -1,0 +1,26 @@
+body {
+  background-color: #2d3e50 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+main {
+  margin: 3rem auto;
+  padding: 1em;
+  max-width: 90vw;
+  display: block;
+  background-color: aqua;
+  flex: 1;
+  background-color: #d9e9e8 !important;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+form,
+#submit {
+  width: 100%;
+}
